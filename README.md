@@ -102,7 +102,8 @@ The dataset contains district-level agricultural insurance portfolio data with t
 
 ## 👤 Author
 
-**[IRINATWE JOHN]** – Actuarial Science | Insurance Analytics | Climate Risk Modeling  
+**[IRINATWE JOHN]**Data Analyst | Python • SQL • Excel • Power BI • Looker Studio
+Product & Project Monitoring • MEAL • Decision-Ready Dashboards 
 
 ---
 
