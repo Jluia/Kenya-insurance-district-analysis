@@ -103,7 +103,6 @@ The dataset contains district-level agricultural insurance portfolio data with t
 ## 👤 Author
 
 **[IRINATWE JOHN]** – Actuarial Science | Insurance Analytics | Climate Risk Modeling  
-Founder @ Kawumbi Holdings  
 
 ---
 
